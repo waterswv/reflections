@@ -1,0 +1,10 @@
+Lesson 2 Reflections
+
+What happens when you initialize a repository? Why do you need to do it?
+
+	It creates a .git file that starts git tracking for the file system. This is the space where git will track all of your versions and commits for this set of files. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging area holds files that are ready to be committed. It enables you to work on multiple files that pertain to change, if it's a complex feature or change it would be logical to commit all file changes together. 
+
