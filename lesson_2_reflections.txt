@@ -8,3 +8,6 @@ How is the staging area different from the working directory and the repository?
 
 	Staging area holds files that are ready to be committed. It enables you to work on multiple files that pertain to change, if it's a complex feature or change it would be logical to commit all file changes together. 
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	By leveraging 'git diff --staged' you can compare changes that have been made in the staging area & working directory. From there you can decide which files should be committed together or seperately. 'git diff' with NO ARGUMENTS will compare changes in staging with the previous commmit as well to check where things stood before you began making changes. 
