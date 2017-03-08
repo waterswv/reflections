@@ -11,3 +11,8 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 
 	By leveraging 'git diff --staged' you can compare changes that have been made in the staging area & working directory. From there you can decide which files should be committed together or seperately. 'git diff' with NO ARGUMENTS will compare changes in staging with the previous commmit as well to check where things stood before you began making changes. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	
+	Branches are very helpful when a program required multipe states ... a la different difficulty levels for a game ... or enabling the program to be accessed in different languages. You are able to keep the core functionality in a single state while making changes to satisfy the different requirements or languages. It also enables you to make global changes to all versions. 
+
