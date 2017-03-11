@@ -20,3 +20,7 @@ How do the diagrams help you visualize the branch structure?
 
 	Diagrams help you see the flow of each commit to it's parent. You can also see what commits have occurred on different branches. From there it will be helpful to see what commits would need to be merged to make your code whole to the master or collaborators. 
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Merging 2 branches together brings all the commits & changes from each chain together into a singular stream. They are shown this way because they are now all linked & you can get to each commit from the merged stream following the parent:child logic. 
+
