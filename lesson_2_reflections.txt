@@ -16,3 +16,7 @@ What are some situations when branches would be helpful in keeping your history 
 	
 	Branches are very helpful when a program requires multiple states ... a la different difficulty levels for a game ... or enabling the program to be accessed in different languages. You are able to keep the core functionality in a single state while making changes to satisfy the different requirements or languages. It also enables you to make global changes to all versions. 
 
+How do the diagrams help you visualize the branch structure?
+
+	Diagrams help you see the flow of each commit to it's parent. You can also see what commits have occurred on different branches. From there it will be helpful to see what commits would need to be merged to make your code whole to the master or collaborators. 
+
