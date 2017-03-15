@@ -7,3 +7,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	If you are working on a collaborative project you many not want certain changes from others in your branch prior to completing a feature. It is helpful to have control on when and where you introduce changes. 
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Forks: a type of clone that is only present in GitHub; this is used solely for attributing work to users on GitHub that can be shared & added to by other users
+	Clones: a copy of a git repository on a local machine, a Fork is a type of clone. This is used to share repos amongst users or machines. 
+	Branches: a history of commits in git. These are used to track changes in features or test new code out. 
+
