@@ -1,0 +1,32 @@
+General Assembly Reflections
+
+Course Payment Options:
+	Quarterly Installment Option over 12 meeks of the class
+	Loan Options from 
+
+Pre-work:
+	Basic development language worksheets [6-8 hours of work]
+	More rigorous development problem solving [50-60 hours of work]
+	Phone interview session
+	On-Campus interview assessment
+	Acceptance review turnaround in 24 hours post interview
+
+Cost Structure: $14,950
+Time: 12 Weeks
+
+In-Class Immersive - Project & Classroom study with projects lead by invividuals. In-class interaction will include some teamwork options
+
+Most graduates are placed in jobs @ Entry Level Developer ... Based on my background I could have an oppty at a more senior level starting point. Certain Startups will hire young people with talent. 
+
+Class Date: May 30th - Aug 23
+
+What type of languages do I want to build with?
+	
+	Javascript, JQuery, Ruby, Python, Node.js, HTML, PHP, CSS
+
+What do I want to accomplish during the course?
+
+	1. Build a intial White Coat prototype
+	2. Understand fundamentals in Developer Team Leadership
+	3. Learn good types of freelance development work
+
