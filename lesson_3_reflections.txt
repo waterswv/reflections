@@ -2,3 +2,8 @@ When would you want to use a remote repository rather than keeping all your work
 
   If your working on a collaborative project and want to add a file quickly to share, it would make sense 
   to add it remotely on GitHub instead of keeping it local
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	If you are working on a collaborative project you many not want certain changes from others in your branch prior to completing a feature. It is helpful to have control on when and where you introduce changes. 
+
