@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+  If your working on a collaborative project and want to add a file quickly to share, it would make sense 
+  to add it remotely on GitHub instead of keeping it local
