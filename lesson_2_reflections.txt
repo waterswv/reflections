@@ -24,3 +24,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	Merging 2 branches together brings all the commits & changes from each chain together into a singular stream. They are shown this way because they are now all linked & you can get to each commit from the merged stream following the parent:child logic. 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Pros: It will take all changes in previous versions and merge them together vs having to remember every chagne you make. It makes it easy to assign multiple people to work on a feature and allowing their code to merged together. 
+	Cons: 
