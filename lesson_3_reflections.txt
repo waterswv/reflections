@@ -13,3 +13,8 @@ Describe the differences between forks, clones, and branches. When would you use
 	Clones: a copy of a git repository on a local machine, a Fork is a type of clone. This is used to share repos amongst users or machines. 
 	Branches: a history of commits in git. These are used to track changes in features or test new code out. 
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	By storing the last remote locally on your machine you can work on the code while offline. Then upon reconnecting to the internet you can see if any collaborators ahve made changes prior to pushing your changes to the GitHub repo. In this scenario, 
+	if a change has occurred while offline you woudl be able to merge the commits together to add or remove anything needed. 
+
